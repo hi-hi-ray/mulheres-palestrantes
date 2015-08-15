@@ -1,12 +1,13 @@
-Lista de Participantes
+﻿Lista de Participantes
 
-
-<<<<<<< HEAD
 Tayline
-=======
+Joy Mendes
+HelenOliver
+Suelen Regina
+Raysa França Dutra
 Isabel Fernandes 
->>>>>>> 7249e2c20ddc85e9daf215bebc89e4e05b666977
 Juliana Bernardino
 Valdiane Castro
 HelenOliver
+Beatriz Carvalho
 
