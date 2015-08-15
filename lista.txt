@@ -1,7 +1,11 @@
 Lista de Participantes
 
 
+<<<<<<< HEAD
 Tayline
+=======
+Isabel Fernandes 
+>>>>>>> 7249e2c20ddc85e9daf215bebc89e4e05b666977
 Juliana Bernardino
 Valdiane Castro
 HelenOliver
